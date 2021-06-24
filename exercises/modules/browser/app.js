@@ -12,7 +12,7 @@ window.App.showPostsForCurrentUser = (userId, cb) => {
     })
     cb(postTemplates)
   })
-}
+}  
 
 window.App.showUserProfile = (userId, cb) => {
   window.App.getUserById(userId, user => {
