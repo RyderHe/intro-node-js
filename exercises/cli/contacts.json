@@ -3,5 +3,20 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Ryder He": {
+    "firstName": "Ryder",
+    "lastName": "He",
+    "phoneNumber": "123321"
+  },
+  "Kimberly Wang": {
+    "firstName": "Kimberly",
+    "lastName": "Wang",
+    "phoneNumber": "123456"
+  },
+  "Kq kk": {
+    "firstName": "K",
+    "lastName": "kk",
+    "phoneNumber": "123321"
   }
 }
